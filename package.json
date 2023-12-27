@@ -1,0 +1,17 @@
+{
+  "name": "percy-pnpm-sibling-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@percy/cli": "1.27.6",
+    "@percy/storybook": "5.0.1"
+  },
+  "packageManager": "pnpm@8.13.1"
+}
