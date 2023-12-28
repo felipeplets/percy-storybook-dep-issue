@@ -9,8 +9,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "webpack": "5.89.0"
-  }
+  "license": "ISC"
 }
